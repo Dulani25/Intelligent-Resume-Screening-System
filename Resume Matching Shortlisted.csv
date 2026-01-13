@@ -1,0 +1,331 @@
+JobID,Job_Title,Resume_ID,Name,Similarity_Score
+AI001,AI Engineer - Fresher,574,Billy Baker,0.5055299630785559
+AI002,AI Engineer - Fresher,628,Kathy Meyer,0.6350417342296306
+AI002,AI Engineer - Fresher,223,James Myers,0.5848940608946616
+AI002,AI Engineer - Fresher,682,Sandra Costa,0.5714744315144922
+AI002,AI Engineer - Fresher,574,Billy Baker,0.559999749700622
+AI002,AI Engineer - Fresher,22,Amber Davis,0.5420167757865115
+AI003,AI Engineer - Fresher,574,Billy Baker,0.5055299630785559
+AI004,AI Engineer - Fresher,628,Kathy Meyer,0.6251674149988768
+AI004,AI Engineer - Fresher,223,James Myers,0.5757994922039095
+AI004,AI Engineer - Fresher,682,Sandra Costa,0.5625885258096757
+AI004,AI Engineer - Fresher,574,Billy Baker,0.5512922648226493
+AI004,AI Engineer - Fresher,22,Amber Davis,0.5335889097360504
+AI005,AI Engineer - Fresher,574,Billy Baker,0.5764948666687066
+AI005,AI Engineer - Fresher,628,Kathy Meyer,0.5344918265595704
+AI005,AI Engineer - Fresher,303,Amber Dalton,0.5210538635468042
+AI006,AI Engineer - Fresher,628,Kathy Meyer,0.6350417342296306
+AI006,AI Engineer - Fresher,223,James Myers,0.5848940608946616
+AI006,AI Engineer - Fresher,682,Sandra Costa,0.5714744315144922
+AI006,AI Engineer - Fresher,574,Billy Baker,0.559999749700622
+AI006,AI Engineer - Fresher,22,Amber Davis,0.5420167757865115
+AI007,AI Engineer - Fresher,574,Billy Baker,0.5764948666687066
+AI007,AI Engineer - Fresher,628,Kathy Meyer,0.5344918265595704
+AI007,AI Engineer - Fresher,303,Amber Dalton,0.5210538635468042
+AI008,AI Engineer - Fresher,628,Kathy Meyer,0.6251674149988768
+AI008,AI Engineer - Fresher,223,James Myers,0.5757994922039095
+AI008,AI Engineer - Fresher,682,Sandra Costa,0.5625885258096757
+AI008,AI Engineer - Fresher,574,Billy Baker,0.5512922648226493
+AI008,AI Engineer - Fresher,22,Amber Davis,0.5335889097360504
+AI009,AI Engineer - Fresher,574,Billy Baker,0.5896063120919857
+AI009,AI Engineer - Fresher,628,Kathy Meyer,0.5466479806180101
+AI009,AI Engineer - Fresher,303,Amber Dalton,0.5329043928220433
+AI009,AI Engineer - Fresher,223,James Myers,0.5034805431353268
+AI010,AI Engineer - Experienced,24,Taylor Williams,0.5310199747551605
+AI010,AI Engineer - Experienced,423,Zachary Cohen,0.5275543053567984
+AI010,AI Engineer - Experienced,303,Amber Dalton,0.5174468472055499
+AI-F-001,AI Prompt Engineer,303,Amber Dalton,0.6073406287247107
+AI-F-001,AI Prompt Engineer,223,James Myers,0.5822050484930483
+AI-F-001,AI Prompt Engineer,831,Courtney Ware,0.5728678309110312
+AI-F-001,AI Prompt Engineer,682,Sandra Costa,0.5688471149860992
+AI-F-001,AI Prompt Engineer,400,Jacob Peterson,0.5642533414298349
+AI-F-002,AI Prompt Engineer,303,Amber Dalton,0.6073406287247107
+AI-F-002,AI Prompt Engineer,223,James Myers,0.5822050484930483
+AI-F-002,AI Prompt Engineer,831,Courtney Ware,0.5728678309110312
+AI-F-002,AI Prompt Engineer,682,Sandra Costa,0.5688471149860992
+AI-F-002,AI Prompt Engineer,400,Jacob Peterson,0.5642533414298349
+AI-F-003,AI Prompt Engineer,303,Amber Dalton,0.5889307882817278
+AI-F-003,AI Prompt Engineer,223,James Myers,0.5720011300067318
+AI-F-003,AI Prompt Engineer,831,Courtney Ware,0.5631404300930316
+AI-F-003,AI Prompt Engineer,682,Sandra Costa,0.5588773120661168
+AI-F-003,AI Prompt Engineer,400,Jacob Peterson,0.5546722162229001
+AI-F-004,AI Prompt Engineer,303,Amber Dalton,0.5889307882817278
+AI-F-004,AI Prompt Engineer,223,James Myers,0.5720011300067318
+AI-F-004,AI Prompt Engineer,831,Courtney Ware,0.5631404300930316
+AI-F-004,AI Prompt Engineer,682,Sandra Costa,0.5588773120661168
+AI-F-004,AI Prompt Engineer,400,Jacob Peterson,0.5546722162229001
+AI-F-005,AI Prompt Engineer,303,Amber Dalton,0.6181306611599193
+AI-F-005,AI Prompt Engineer,223,James Myers,0.5925485214307523
+AI-F-005,AI Prompt Engineer,831,Courtney Ware,0.5830454185517545
+AI-F-005,AI Prompt Engineer,682,Sandra Costa,0.578953270463073
+AI-F-005,AI Prompt Engineer,400,Jacob Peterson,0.5742778837834182
+AI-F-006,AI Prompt Engineer,303,Amber Dalton,0.6019837565431052
+AI-F-006,AI Prompt Engineer,223,James Myers,0.5672185386915223
+AI-F-006,AI Prompt Engineer,831,Courtney Ware,0.5584319244819069
+AI-F-006,AI Prompt Engineer,682,Sandra Costa,0.5542044510545948
+AI-F-006,AI Prompt Engineer,400,Jacob Peterson,0.5500345146783867
+AI-F-007,AI Prompt Engineer,303,Amber Dalton,0.6073406287247107
+AI-F-007,AI Prompt Engineer,223,James Myers,0.5822050484930483
+AI-F-007,AI Prompt Engineer,831,Courtney Ware,0.5728678309110312
+AI-F-007,AI Prompt Engineer,682,Sandra Costa,0.5688471149860992
+AI-F-007,AI Prompt Engineer,400,Jacob Peterson,0.5642533414298349
+AI-F-008,AI Prompt Engineer,303,Amber Dalton,0.6181306611599193
+AI-F-008,AI Prompt Engineer,223,James Myers,0.5925485214307523
+AI-F-008,AI Prompt Engineer,831,Courtney Ware,0.5830454185517545
+AI-F-008,AI Prompt Engineer,682,Sandra Costa,0.578953270463073
+AI-F-008,AI Prompt Engineer,400,Jacob Peterson,0.5742778837834182
+AI-F-009,AI Prompt Engineer,303,Amber Dalton,0.6073406287247107
+AI-F-009,AI Prompt Engineer,223,James Myers,0.5822050484930483
+AI-F-009,AI Prompt Engineer,831,Courtney Ware,0.5728678309110312
+AI-F-009,AI Prompt Engineer,682,Sandra Costa,0.5688471149860992
+AI-F-009,AI Prompt Engineer,400,Jacob Peterson,0.5642533414298349
+AI-F-010,AI Prompt Engineer,303,Amber Dalton,0.5975063510161833
+AI-F-010,AI Prompt Engineer,223,James Myers,0.5803301759186694
+AI-F-010,AI Prompt Engineer,831,Courtney Ware,0.5713404532242061
+AI-F-010,AI Prompt Engineer,682,Sandra Costa,0.5670152589112292
+AI-F-010,AI Prompt Engineer,400,Jacob Peterson,0.5627489316569105
+AI-E-013,AI Prompt Engineer,930,David Levy,0.6094611095514133
+AI-E-013,AI Prompt Engineer,949,Alan Lewis,0.5633587645522151
+AI-E-013,AI Prompt Engineer,502,Samantha Evans,0.5490978173532167
+AI-E-013,AI Prompt Engineer,131,Jonathan Howard,0.5400932656398852
+AI-E-013,AI Prompt Engineer,25,Lori Johnson,0.5345351687136439
+AI-E-014,AI Prompt Engineer,223,James Myers,0.503746596858819
+AI-E-016,AI Prompt Engineer,51,Kenneth Skinner,0.5514558280493267
+AI-E-016,AI Prompt Engineer,646,Susan Cobb,0.5325712110978744
+AI-E-016,AI Prompt Engineer,81,Jamie Rose,0.5279338402911287
+AI-E-016,AI Prompt Engineer,116,Tina Smith,0.5274387739030442
+AI-E-016,AI Prompt Engineer,602,John Chaney,0.5255918361575608
+AI-E-017,AI Prompt Engineer,51,Kenneth Skinner,0.505745717379555
+AI-E-020,AI Prompt Engineer,426,Molly Brewer,0.5470062302113103
+AI-E-020,AI Prompt Engineer,883,Scott Fuller,0.5335232530445172
+AI-E-020,AI Prompt Engineer,671,Tammy Chen,0.5053023405774613
+AI-E-020,AI Prompt Engineer,689,Chelsea Friedman,0.5037937991538181
+AI-E-020,AI Prompt Engineer,720,Deanna Williams,0.5010297645893851
+CSA-F-001,Cybersecurity Analyst,39,Denise Harper,0.5375700838392206
+CSA-F-001,Cybersecurity Analyst,662,Monica Williams,0.5375700838392206
+CSA-F-001,Cybersecurity Analyst,932,Debbie Wong,0.5336969346217201
+CSA-F-001,Cybersecurity Analyst,221,Keith Ward,0.5284533958847298
+CSA-F-001,Cybersecurity Analyst,163,Katie Wall,0.5247951387111013
+CSA-F-004,Associate Cybersecurity Analyst,662,Monica Williams,0.5787448226502849
+CSA-F-004,Associate Cybersecurity Analyst,39,Denise Harper,0.5787448226502849
+CSA-F-004,Associate Cybersecurity Analyst,932,Debbie Wong,0.5745750127513196
+CSA-F-004,Associate Cybersecurity Analyst,221,Keith Ward,0.5689298494737683
+CSA-F-004,Associate Cybersecurity Analyst,163,Katie Wall,0.5649913910981829
+DA001,Data Analyst - Fresher,17,Megan Brown,0.5070718160267221
+DA001,Data Analyst - Fresher,916,Marcus Edwards,0.5070718160267221
+DA002,Data Analyst - Fresher,17,Megan Brown,0.5070718160267221
+DA002,Data Analyst - Fresher,916,Marcus Edwards,0.5070718160267221
+DA004,Data Analyst - Fresher,17,Megan Brown,0.5070718160267221
+DA004,Data Analyst - Fresher,916,Marcus Edwards,0.5070718160267221
+DA005,Data Analyst - Fresher,17,Megan Brown,0.5070718160267221
+DA005,Data Analyst - Fresher,916,Marcus Edwards,0.5070718160267221
+DA007,Data Analyst - Fresher,17,Megan Brown,0.5070718160267221
+DA007,Data Analyst - Fresher,916,Marcus Edwards,0.5070718160267221
+DA009,Data Analyst - Fresher,17,Megan Brown,0.5027873884287584
+DA009,Data Analyst - Fresher,916,Marcus Edwards,0.5027873884287584
+DA010,Data Analyst - Experienced,271,Amy Poole,0.5492596565799533
+DA010,Data Analyst - Experienced,194,Nicholas Welch,0.5399072915586131
+DA010,Data Analyst - Experienced,960,Evan Rodriguez,0.5389152714483092
+DA010,Data Analyst - Experienced,307,Jessica Campbell,0.5384867149333956
+DA010,Data Analyst - Experienced,800,James Allen,0.5231826798435706
+DA011,Data Analyst - Experienced,194,Nicholas Welch,0.5569271037929435
+DA011,Data Analyst - Experienced,182,Stephen Nichols,0.5155304703430034
+DA011,Data Analyst - Experienced,879,Rachel Johnson,0.5148582363419423
+DA011,Data Analyst - Experienced,792,Kendra Delacruz,0.5148582363419423
+DA011,Data Analyst - Experienced,271,Amy Poole,0.511917617816557
+DA012,Data Analyst - Experienced,194,Nicholas Welch,0.5799164048996648
+DA012,Data Analyst - Experienced,271,Amy Poole,0.5798203613112551
+DA012,Data Analyst - Experienced,960,Evan Rodriguez,0.5689004165224472
+DA012,Data Analyst - Experienced,307,Jessica Campbell,0.5684480152030661
+DA012,Data Analyst - Experienced,800,James Allen,0.5478879105601281
+DA013,Data Analyst - Experienced,271,Amy Poole,0.5161478354711326
+DA013,Data Analyst - Experienced,194,Nicholas Welch,0.5143149714034556
+DA013,Data Analyst - Experienced,960,Evan Rodriguez,0.5064270559982265
+DA013,Data Analyst - Experienced,307,Jessica Campbell,0.5060243347808571
+DA016,Data Analyst - Experienced,194,Nicholas Welch,0.535381113880437
+DA017,Data Analyst - Experienced,194,Nicholas Welch,0.5922986056148936
+DA017,Data Analyst - Experienced,182,Stephen Nichols,0.5491061520498832
+DA017,Data Analyst - Experienced,879,Rachel Johnson,0.5483901365147508
+DA017,Data Analyst - Experienced,792,Kendra Delacruz,0.5483901365147508
+DA017,Data Analyst - Experienced,271,Amy Poole,0.5444304813995415
+DA019,Data Analyst - Experienced,194,Nicholas Welch,0.5145474425381871
+DA020,Data Analyst - Experienced,194,Nicholas Welch,0.5922986056148936
+DA020,Data Analyst - Experienced,182,Stephen Nichols,0.5491061520498832
+DA020,Data Analyst - Experienced,879,Rachel Johnson,0.5483901365147508
+DA020,Data Analyst - Experienced,792,Kendra Delacruz,0.5483901365147508
+DA020,Data Analyst - Experienced,271,Amy Poole,0.5444304813995415
+DE-F-007,Data Engineer,31,Abigail Watts,0.5137887784521504
+DE-F-009,Data Engineer,31,Abigail Watts,0.54140696452351
+DE-F-010,Data Engineer,916,Marcus Edwards,0.5115179339259601
+DE-F-010,Data Engineer,17,Megan Brown,0.5115179339259601
+DE-E-003,Data Engineer,31,Abigail Watts,0.5397769825274341
+DE-E-004,Data Engineer,31,Abigail Watts,0.5158926540716411
+DE-E-006,Data Engineer,675,Alexandra Williams,0.503262388052477
+DE-E-006,Data Engineer,30,Steven Thomas,0.5029206526037372
+DE-E-008,Data Engineer,31,Abigail Watts,0.5397769825274341
+DE-E-009,Data Engineer,31,Abigail Watts,0.5449458771755529
+DS-F1,Data Scientist - Entry Level,850,Lori Lopez DDS,0.5767085292893365
+DS-F1,Data Scientist - Entry Level,293,Katelyn Hopkins,0.5767085292893365
+DS-F1,Data Scientist - Entry Level,935,Maria Green,0.5743250340961507
+DS-F1,Data Scientist - Entry Level,663,Gregory Alvarez,0.5711972812574707
+DS-F1,Data Scientist - Entry Level,31,Abigail Watts,0.5705697634538718
+DS-F2,Junior Data Scientist,850,Lori Lopez DDS,0.6686291545033893
+DS-F2,Junior Data Scientist,293,Katelyn Hopkins,0.6686291545033893
+DS-F2,Junior Data Scientist,31,Abigail Watts,0.656911399427103
+DS-F2,Junior Data Scientist,727,Ryan Mason,0.6532892136359717
+DS-F2,Junior Data Scientist,752,Jacob Brown,0.6120173517649502
+DS-F3,Data Analyst / Data Scientist Intern,663,Gregory Alvarez,0.6421348813488144
+DS-F3,Data Analyst / Data Scientist Intern,803,Maria Bell,0.63700480219853
+DS-F3,Data Analyst / Data Scientist Intern,850,Lori Lopez DDS,0.6308621653713077
+DS-F3,Data Analyst / Data Scientist Intern,293,Katelyn Hopkins,0.6308621653713077
+DS-F3,Data Analyst / Data Scientist Intern,935,Maria Green,0.6213948544816237
+DS-F4,Data Scientist - Fresher,850,Lori Lopez DDS,0.643992952571935
+DS-F4,Data Scientist - Fresher,293,Katelyn Hopkins,0.643992952571935
+DS-F4,Data Scientist - Fresher,727,Ryan Mason,0.6292182246903417
+DS-F4,Data Scientist - Fresher,31,Abigail Watts,0.6278517101892125
+DS-F4,Data Scientist - Fresher,752,Jacob Brown,0.5859433314444265
+DS-F5,Junior Machine Learning Engineer,850,Lori Lopez DDS,0.6699578537787757
+DS-F5,Junior Machine Learning Engineer,293,Katelyn Hopkins,0.6699578537787757
+DS-F5,Junior Machine Learning Engineer,727,Ryan Mason,0.6545874293941828
+DS-F5,Junior Machine Learning Engineer,918,Michael Jimenez,0.6184929469198633
+DS-F5,Junior Machine Learning Engineer,418,James Bell,0.6184929469198633
+DS-F6,Entry Level Data Scientist,850,Lori Lopez DDS,0.5867254945147555
+DS-F6,Entry Level Data Scientist,293,Katelyn Hopkins,0.5867254945147555
+DS-F6,Entry Level Data Scientist,31,Abigail Watts,0.5804801032337185
+DS-F6,Entry Level Data Scientist,727,Ryan Mason,0.5732646181371055
+DS-F6,Entry Level Data Scientist,752,Jacob Brown,0.5399782328290639
+DS-F7,Data Science Intern,663,Gregory Alvarez,0.5594748581683968
+DS-F7,Data Science Intern,803,Maria Bell,0.5550051581281664
+DS-F7,Data Science Intern,935,Maria Green,0.5450474566302356
+DS-F7,Data Science Intern,54,William Hill,0.5410303506884
+DS-F7,Data Science Intern,867,Timothy Buckley,0.5404418027594158
+DS-F8,Fresher Data Scientist,935,Maria Green,0.6530510672175879
+DS-F8,Fresher Data Scientist,293,Katelyn Hopkins,0.6525903948961922
+DS-F8,Fresher Data Scientist,850,Lori Lopez DDS,0.6525903948961922
+DS-F8,Fresher Data Scientist,663,Gregory Alvarez,0.6500927831005077
+DS-F8,Fresher Data Scientist,54,William Hill,0.6482379536243955
+DS-F9,Data Science Associate,935,Maria Green,0.5106866776586096
+DS-F9,Data Science Associate,663,Gregory Alvarez,0.5100363956593698
+DS-F9,Data Science Associate,54,William Hill,0.5069228173519824
+DS-F9,Data Science Associate,867,Timothy Buckley,0.5063713725505443
+DS-F9,Data Science Associate,803,Maria Bell,0.505961664391443
+DS-E1,Data Scientist - Experienced,592,Peter Thomas,0.7336131743541809
+DS-E1,Data Scientist - Experienced,503,Eric Pena,0.6872423124481617
+DS-E1,Data Scientist - Experienced,918,Michael Jimenez,0.6761245662924823
+DS-E1,Data Scientist - Experienced,418,James Bell,0.6761245662924823
+DS-E1,Data Scientist - Experienced,472,Claire Harris,0.6744510311950348
+DS-S1,Senior Data Scientist,592,Peter Thomas,0.7444397377015856
+DS-S1,Senior Data Scientist,288,Rebecca Lewis,0.7081303693610482
+DS-S1,Senior Data Scientist,856,Felicia Gonzalez,0.7002194972637148
+DS-S1,Senior Data Scientist,752,Jacob Brown,0.6893499724968603
+DS-S1,Senior Data Scientist,918,Michael Jimenez,0.6841648263907016
+DS-S2,Lead Data Scientist,293,Katelyn Hopkins,0.693484239701404
+DS-S2,Lead Data Scientist,850,Lori Lopez DDS,0.693484239701404
+DS-S2,Lead Data Scientist,727,Ryan Mason,0.6775740641461564
+DS-S2,Lead Data Scientist,918,Michael Jimenez,0.6390956140597459
+DS-S2,Lead Data Scientist,418,James Bell,0.6390956140597459
+DS-S3,Principal Data Scientist,175,Lisa Jones,0.698994680077208
+DS-S3,Principal Data Scientist,775,Amy White,0.696502082665324
+DS-S3,Principal Data Scientist,876,Brandi Hernandez,0.660079729607591
+DS-S3,Principal Data Scientist,73,Scott Kidd,0.644060058331041
+DS-S3,Principal Data Scientist,918,Michael Jimenez,0.6381320279952153
+DS-S4,Machine Learning Scientist,592,Peter Thomas,0.7531657259931387
+DS-S4,Machine Learning Scientist,856,Felicia Gonzalez,0.7121827758981122
+DS-S4,Machine Learning Scientist,418,James Bell,0.6776728612496442
+DS-S4,Machine Learning Scientist,918,Michael Jimenez,0.6776728612496442
+DS-S4,Machine Learning Scientist,663,Gregory Alvarez,0.6728761879271503
+DS-S5,Senior Machine Learning Engineer,592,Peter Thomas,0.6397090236557826
+DS-S5,Senior Machine Learning Engineer,777,Traci Austin,0.6225012598183086
+DS-S5,Senior Machine Learning Engineer,856,Felicia Gonzalez,0.6111585947011481
+DS-S5,Senior Machine Learning Engineer,503,Eric Pena,0.5658671836777873
+DS-S5,Senior Machine Learning Engineer,112,Richard Jones MD,0.5570707817981245
+DS-S6,Lead Machine Learning Scientist,418,James Bell,0.7096528502375565
+DS-S6,Lead Machine Learning Scientist,918,Michael Jimenez,0.7096528502375565
+DS-S6,Lead Machine Learning Scientist,663,Gregory Alvarez,0.7046298176069016
+DS-S6,Lead Machine Learning Scientist,657,Craig Howard,0.7018188050884802
+DS-S6,Lead Machine Learning Scientist,175,Lisa Jones,0.7005943956398315
+DS-S7,Data Science Team Lead,293,Katelyn Hopkins,0.6386291825643571
+DS-S7,Data Science Team Lead,850,Lori Lopez DDS,0.6386291825643571
+DS-S7,Data Science Team Lead,727,Ryan Mason,0.6239775123062439
+DS-S7,Data Science Team Lead,918,Michael Jimenez,0.5921398079728499
+DS-S7,Data Science Team Lead,418,James Bell,0.5921398079728499
+FE-F-001,Fintech Engineer,850,Lori Lopez DDS,0.5266593191114801
+FE-F-001,Fintech Engineer,293,Katelyn Hopkins,0.5266593191114801
+FE-F-001,Fintech Engineer,727,Ryan Mason,0.5145765034609344
+FE-F-001,Fintech Engineer,981,Juan Le,0.5138173232566065
+FE-F-001,Fintech Engineer,55,James Jones,0.5138173232566065
+FE-F-002,Fintech Engineer,850,Lori Lopez DDS,0.5239948651548363
+FE-F-002,Fintech Engineer,293,Katelyn Hopkins,0.5239948651548363
+FE-F-002,Fintech Engineer,727,Ryan Mason,0.5119731784064087
+FE-F-003,Fintech Engineer,293,Katelyn Hopkins,0.5391939528652278
+FE-F-003,Fintech Engineer,850,Lori Lopez DDS,0.5391939528652278
+FE-F-003,Fintech Engineer,55,James Jones,0.5369971433708748
+FE-F-003,Fintech Engineer,981,Juan Le,0.5369971433708748
+FE-F-003,Fintech Engineer,708,Melissa Deleon,0.5348165406355817
+FE-F-004,Fintech Engineer,850,Lori Lopez DDS,0.5239948651548363
+FE-F-004,Fintech Engineer,293,Katelyn Hopkins,0.5239948651548363
+FE-F-004,Fintech Engineer,727,Ryan Mason,0.5119731784064087
+FE-F-005,Fintech Engineer,981,Juan Le,0.5052419108947337
+FE-F-005,Fintech Engineer,55,James Jones,0.5052419108947337
+FE-F-005,Fintech Engineer,708,Melissa Deleon,0.5031902577221192
+FE-F-005,Fintech Engineer,293,Katelyn Hopkins,0.5029338482973083
+FE-F-005,Fintech Engineer,850,Lori Lopez DDS,0.5029338482973083
+FE-F-007,Fintech Engineer,850,Lori Lopez DDS,0.5239948651548363
+FE-F-007,Fintech Engineer,293,Katelyn Hopkins,0.5239948651548363
+FE-F-007,Fintech Engineer,727,Ryan Mason,0.5119731784064087
+FE-F-009,Fintech Engineer,850,Lori Lopez DDS,0.5079700750048727
+FE-F-009,Fintech Engineer,293,Katelyn Hopkins,0.5079700750048727
+JD-JAVA-017,Java Developer,132,Rebecca Reynolds,0.5247944708967257
+JD-JAVA-017,Java Developer,836,Larry Moreno,0.5244916880354893
+JD-JAVA-017,Java Developer,791,Kimberly Clark,0.5243469795527678
+JD-JAVA-017,Java Developer,899,Margaret Price,0.5243469795527678
+ML-E1,Machine Learning Engineer - Experienced,558,Jessica Campbell,0.5138558830862539
+ML-E1,Machine Learning Engineer - Experienced,877,James Pruitt,0.5062599956430924
+ML-E1,Machine Learning Engineer - Experienced,452,William Parker V,0.5032150183662722
+ML-E1,Machine Learning Engineer - Experienced,378,Jacob White,0.5032150183662722
+ML-E1,Machine Learning Engineer - Experienced,404,Gregg Barber,0.5022659134974701
+SEO-005,SEO Specialist,886,David Tran,0.5150502105086727
+SD006,Software Developer - Entry Level,67,Brittney Mccormick,0.5185104550406308
+SD006,Software Developer - Entry Level,515,John Braun,0.5185104550406308
+SD006,Software Developer - Entry Level,294,Jeremy Shaw,0.5185104550406308
+SD006,Software Developer - Entry Level,527,Mary Abbott,0.5182672661676985
+SD006,Software Developer - Entry Level,944,Michael Wilson,0.5182672661676985
+SD008,Software Developer - Entry Level,293,Katelyn Hopkins,0.6275432200822135
+SD008,Software Developer - Entry Level,850,Lori Lopez DDS,0.6275432200822135
+SD008,Software Developer - Entry Level,727,Ryan Mason,0.6131458881337435
+SD008,Software Developer - Entry Level,418,James Bell,0.586919395734767
+SD008,Software Developer - Entry Level,918,Michael Jimenez,0.586919395734767
+SE-F1,Software Engineer - Entry Level,516,Ryan Smith,0.5113242920300757
+SE-F2,Software Engineer - Entry Level,132,Rebecca Reynolds,0.7022125696054644
+SE-F2,Software Engineer - Entry Level,836,Larry Moreno,0.701807424462342
+SE-F2,Software Engineer - Entry Level,791,Kimberly Clark,0.701613794153467
+SE-F2,Software Engineer - Entry Level,899,Margaret Price,0.701613794153467
+SE-F2,Software Engineer - Entry Level,661,Brenda Hall,0.6342470556020656
+SE-F3,Software Engineer - Entry Level,341,Austin Saunders,0.5010015570141442
+SE-F5,Software Engineer - Entry Level,341,Austin Saunders,0.5010015570141442
+SE-F6,Software Engineer - Entry Level,341,Austin Saunders,0.5014152735122063
+SE-F9,Software Engineer - Entry Level,341,Austin Saunders,0.5010015570141442
+SE-E11,Software Engineer - Experienced,516,Ryan Smith,0.5517230561091527
+SE-E11,Software Engineer - Experienced,673,Shane Burch,0.5356605153313371
+SE-E11,Software Engineer - Experienced,177,Eric Mendez,0.5356605153313371
+SE-E11,Software Engineer - Experienced,838,Cheryl Green,0.533937160149158
+SE-E11,Software Engineer - Experienced,635,Edward Johnson,0.533937160149158
+SE-E12,Software Engineer - Experienced,882,Cindy Hamilton,0.531065040048019
+SE-E12,Software Engineer - Experienced,700,Ricky Alvarez,0.5208970619174782
+SE-E12,Software Engineer - Experienced,331,James Murphy,0.5205527461807418
+SE-E12,Software Engineer - Experienced,855,Michelle Baker,0.5205527461807418
+SE-E12,Software Engineer - Experienced,715,Jacob Ferrell,0.5205527461807418
+SE-E14,Software Engineer - Experienced,341,Austin Saunders,0.5010015570141442
+SE-E15,Software Engineer - Experienced,882,Cindy Hamilton,0.531065040048019
+SE-E15,Software Engineer - Experienced,700,Ricky Alvarez,0.5208970619174782
+SE-E15,Software Engineer - Experienced,331,James Murphy,0.5205527461807418
+SE-E15,Software Engineer - Experienced,855,Michelle Baker,0.5205527461807418
+SE-E15,Software Engineer - Experienced,715,Jacob Ferrell,0.5205527461807418
+SE-E18,Software Engineer - Experienced,516,Ryan Smith,0.5811369618139648
+SE-E18,Software Engineer - Experienced,673,Shane Burch,0.5642180818736167
+SE-E18,Software Engineer - Experienced,177,Eric Mendez,0.5642180818736167
+SE-E18,Software Engineer - Experienced,635,Edward Johnson,0.5624028497864157
+SE-E18,Software Engineer - Experienced,838,Cheryl Green,0.5624028497864157
+SE-E20,Software Engineer - Experienced,341,Austin Saunders,0.5010015570141442
+SE011,System Engineer - Virtualization,504,Alex Morgan,0.5094397819598566
+SE011,System Engineer - Virtualization,458,Keith Hayes,0.5043073952100086
